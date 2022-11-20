@@ -6,3 +6,7 @@ linux driver <strong>This is simple</strong>
 > Software
 > > Arm Studio
 > > AVR Studio
+> ## Knowledge basc
+> > - *basic electronic"
+> > - books
+> > - code
